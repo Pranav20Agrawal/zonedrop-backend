@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Database migrations
+migrations/
+
+# IDE files (optional)
+.vscode/
+.idea/
